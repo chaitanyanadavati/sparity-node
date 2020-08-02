@@ -1,0 +1,10 @@
+
+# this file ignoring files/folders from GIT.
+node_modules
+package-lock.json
+test.js
+logs
+temp
+media-storage
+
+sparity-node.*

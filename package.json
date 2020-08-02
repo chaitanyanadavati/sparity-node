@@ -1,0 +1,26 @@
+{
+  "name": "buzz-node-services",
+  "version": "1.0.0",
+  "description": "Buzz REST API CALLS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Chaitanya nadavati",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.13",
+    "helmet": "^3.23.3",
+    "mongoose": "^5.9.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/Chaitanya_Nadavati/buzz-node-services"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
